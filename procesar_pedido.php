@@ -17,10 +17,17 @@ comprobar_sesion();
     <title>Pedidos</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 </head>
-
+    <style>
+        .procesar{
+            margin-left: 25px;
+        }
+    </style>
 <body>
     <?php
     require 'cabecera.php';
+    ?>
+    <div class="procesar">
+    <?php
     $resul = insertar_pedido($_SESSION['carrito'], $_SESSION['usuario']['codRes']);
     if ($resul === FALSE) {
         echo "No se ha podido realizar el pedido<br>";
@@ -36,6 +43,7 @@ comprobar_sesion();
         
         }
     ?>
+    </div>
 </body>
 
 </html>
