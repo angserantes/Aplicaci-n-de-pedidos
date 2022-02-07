@@ -16,4 +16,4 @@ Seguimos la unidad 4 del libro "Desarrollo web en entorno servidor".
 ![categorias](https://i.ibb.co/JtXdJZD/Fire-Shot-Capture-041-Lista-de-categor-as-pedidos-test.png)
 ![bebidas](https://i.ibb.co/DKKznnS/Fire-Shot-Capture-042-Tabla-de-productos-por-categor-a-pedidos-test.png)
 ![carrito](https://i.ibb.co/SVKJszB/Fire-Shot-Capture-043-Carrito-de-la-compra-pedidos-test.png")
-![pedido](ttps://i.ibb.co/d2x9Kxc/Fire-Shot-Capture-044-Pedidos-pedidos-test.png)
+![pedido](https://i.ibb.co/d2x9Kxc/Fire-Shot-Capture-044-Pedidos-pedidos-test.png)
