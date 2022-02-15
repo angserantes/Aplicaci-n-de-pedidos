@@ -21,8 +21,13 @@ comprobar_sesion();
     }
     .categorias{
         display: flex;
-        width: 150px;
+        width: 300px;
         margin-left: 550px;
+        border: solid 3px black;
+        padding: 50px;
+        font-size: 20px;
+        margin-top: 20px;
+        background-color: #FCE8E6;
     }
 </style>
 <body>

@@ -36,18 +36,26 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   <style>
     body{
       font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      background-color: #FCE8E6;
     }
     .login{
       display: flex;
+      flex-direction: column;
       margin-top: 150px;
-      margin-left: 550px;
+      margin-left: 500px;
+      width: 300px;
+      border: solid 3px black;
+      padding: 50px;
+      text-align: center;
     }
+
 
   </style>
   <body>
    <div class="login">
    <?php if(isset($_GET["redirigido"])) {
-      echo "<p>Haga login para continuar <p>";
+      echo "<p>Bienvenido a tu sesión<p>";
     }?>
     <?php if(isset($err) and $err == TRUE) {
       echo "<p>Revise usuario y contraseña <p>";

@@ -12,8 +12,8 @@ Seguimos la unidad 4 del libro "Desarrollo web en entorno servidor".
 6. Después, llamamos al intérprete de Saas con el comando "npm install --save-dev parcel-bundler sass"
 7. Se visualiza en el navegador de la siguiente forma:
 
-![login](https://i.ibb.co/nf8x9WC/Fire-Shot-Capture-040-Formulario-de-login-pedidos-test.png)
-![categorias](https://i.ibb.co/JtXdJZD/Fire-Shot-Capture-041-Lista-de-categor-as-pedidos-test.png)
+![login](https://i.ibb.co/yq1GmM9/1.png)
+![categorias](https://i.ibb.co/sRrzN39/Fire-Shot-Capture-053-Lista-de-categor-as-pedidos-test.png)
 ![bebidas](https://i.ibb.co/DKKznnS/Fire-Shot-Capture-042-Tabla-de-productos-por-categor-a-pedidos-test.png)
 ![carrito](https://i.ibb.co/SVKJszB/Fire-Shot-Capture-043-Carrito-de-la-compra-pedidos-test.png")
 ![pedido](https://i.ibb.co/d2x9Kxc/Fire-Shot-Capture-044-Pedidos-pedidos-test.png)
